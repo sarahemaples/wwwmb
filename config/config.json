@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "root",
-    "password": "ScorpioSQL",
+    "password": "m3owm3ow",
     "database": "exampledb",
     "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "ScorpioSQL",
+    "password": "m3owm3ow",
     "database": "exampledb",
     "host": "localhost",
     "dialect": "mysql",
