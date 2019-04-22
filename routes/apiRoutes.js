@@ -78,7 +78,6 @@ module.exports = function(app) {
 
   // routing to gather diagnosis info
   app.get("/diagnoses/:diag", function(req, res) {
-    console.log(keys.id); 
     var diagID = req.params.diag;
 
     unirest
